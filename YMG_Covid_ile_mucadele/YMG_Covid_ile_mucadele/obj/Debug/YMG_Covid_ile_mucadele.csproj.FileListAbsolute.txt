@@ -1,0 +1,14 @@
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\bin\Debug\YMG_Covid_ile_mucadele.exe.config
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\bin\Debug\YMG_Covid_ile_mucadele.exe
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\bin\Debug\YMG_Covid_ile_mucadele.pdb
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.csproj.AssemblyReference.cache
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.Properties.Resources.resources
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.csproj.GenerateResource.cache
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.csproj.CoreCompileInputs.cache
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.exe
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.pdb
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.giriş.resources
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.Personel_Giriş.resources
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.hasta_penceresi.resources
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.hasta_bul.resources
+C:\Users\nesrin\source\repos\YMG_Covid_ile_mucadele\YMG_Covid_ile_mucadele\obj\Debug\YMG_Covid_ile_mucadele.sifre_guncelleme.resources
