@@ -1,5 +1,5 @@
 Covid_ile_mucadele <br>
-YMG_Proje_odevi(Nesrin Yarar, Murat Yalçın)<br><br>
+YMG_Proje_odevi(Nesrin Yarar)<br><br>
 *KAYITLI 2 PERSONEL VARDIR*<br>
 1)KID=1 ŞİFRE=123456<br>
 2)KID=3 ŞİFRE=123456 <br>
